@@ -1,0 +1,1 @@
+all gives same output and takes same input
